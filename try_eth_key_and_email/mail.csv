@@ -1,0 +1,5 @@
+from,alex@example.com
+to,bob@example.com;cora@example.com
+host,smtp.example.com:587
+username,alex@example.com
+password,123456
